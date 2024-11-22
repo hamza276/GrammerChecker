@@ -2,4 +2,4 @@ streamlit==1.27.0   # Streamlit for building the app
 redlines==0.2.2     # Redlines for highlighting text differences
 openai==0.27.2      # For interacting with Llama3 or other models
 Pillow>=9.2.0
-groq=<0.12.0
+groq==0.12.0
