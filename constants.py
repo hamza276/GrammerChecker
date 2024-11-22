@@ -1,2 +1,2 @@
-API_Key="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"
+API_Key="..............Your Own Groq API.............."  # https://console.groq.com/playground?model=llama3-8b-8192
 WORD_LIMIT = 2700
