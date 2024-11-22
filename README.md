@@ -3,6 +3,8 @@
 ## Overview
 The **Grammar Checker and Proofreader App** is a Streamlit-powered web application that helps users identify and correct grammatical, spelling, and punctuation mistakes in text. The app highlights incorrect sections, provides corrected sentences, and ensures the text is clear and error-free. It integrates with the **Groq API** for language processing and utilizes **Redlines** for highlighting changes in the text.
 
+**Access the live application here**: [Grammar Checker App](https://grammerchecker-fkxz3u4fvxhtvqb3cxdnfa.streamlit.app/)
+
 ---
 
 ## Features
@@ -167,4 +169,4 @@ If you have questions or feedback, feel free to reach out:
 - **Email**: hafizhamzakhan1997@gmail.com
 - **GitHub**: https://github.com/hamza276/GrammerChecker.git
 
-Enjoy using the Grammar Checker and Proofreader App! 🎉
+Enjoy using the Grammar Checker and Proofreader App! 🎉 
