@@ -1,7 +1,7 @@
 import streamlit as st
-from utils.groq_client import get_groq_response
-from utils.text_processing import process_input_text
-from utils.redlines_utils import generate_highlighted_text
+from groq_client import get_groq_response
+from text_processing import process_input_text
+from redlines_utils import generate_highlighted_text
 from constants import WORD_LIMIT
 
 # Streamlit UI
