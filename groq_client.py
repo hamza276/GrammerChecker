@@ -5,7 +5,7 @@ def get_groq_response(input_text):
     """
     Sends input text to the Groq API and retrieves the response.
     """
-    client = Groq(api_key=API_KEY)
+    client = Groq(api_key=API_Key)
     prompt = f"""Proofread and correct the given text: '''{input_text}'''.
 
     Your task:
